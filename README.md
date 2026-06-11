@@ -1,10 +1,11 @@
-# Artem Yakovyshyn
+# Hi! I'm Artem
 
-**Junior QA Engineer — Manual & Automation**
-📍 Funen, Denmark · Open to QA roles (on-site / hybrid / remote)
+## I'm Junior QA Engineer — Manual & Automation
+📍 Funen, Denmark
+✅ Open to QA roles (on-site / hybrid / remote)
 
 QA engineer with 1+ year of commercial experience in fintech, focused on
-building reliable test coverage across the stack — from manual checklist-based
+building reliable test coverage across the stack - from manual checklist-based
 testing and API verification to end-to-end and performance automation.
 
 ### What I work with
@@ -19,14 +20,14 @@ testing and API verification to end-to-end and performance automation.
   full e-commerce test suite: functional, negative, accessibility (WCAG 2.1 AA)
   and performance (k6) tests in Playwright + TypeScript with a POM architecture.
 - **[Merkle-HYF-QAStudying](https://github.com/TemaHromosoma/Merkle-HYF-QAStudying)** —
-  automation practice from the HackYourFuture Denmark / Merkle QA track.
+  automation practice from the HackYourFuture Denmark & Merkle QA track 2026.
 
 ### Languages
-🇺🇦 Ukrainian (native) · 🇬🇧 English · 🇩🇰 Danish (learning, Dansk 3, Module 3.3)
+🇺🇦 Ukrainian (native) · 🇬🇧 English (B2) · 🇩🇰 Danish (learning, Dansk 3, Module 3.3)
 
 ### Contact
-- LinkedIn: [твій URL]
-- Email: [твій email]
+- : [[LinkedIn](https://www.linkedin.com/in/artemyakovyshyn/)]
+- : [Email]: yakovishinartem@gmail.com
 
 <!--
 **TemaHromosoma/TemaHromosoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
