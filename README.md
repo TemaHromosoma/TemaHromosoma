@@ -26,7 +26,7 @@ testing and API verification to end-to-end and performance automation.
 🇺🇦 Ukrainian (native) · 🇬🇧 English (B2) · 🇩🇰 Danish (learning, Dansk 3, Module 3.3)
 
 ### Contact
-- : [[LinkedIn](https://www.linkedin.com/in/artemyakovyshyn/)]
+- : [LinkedIn]: https://www.linkedin.com/in/artemyakovyshyn/
 - : [Email]: yakovishinartem@gmail.com
 
 <!--
